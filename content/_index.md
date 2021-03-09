@@ -6,4 +6,4 @@ seo:
   image: "/images/hero-2.jpg"
 
 ---
-Hi
+Hi kajsdak;djsa;kdjga;
